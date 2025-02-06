@@ -1,0 +1,16 @@
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\bin\Debug\net8.0-windows\CalculatorTask.exe
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\bin\Debug\net8.0-windows\CalculatorTask.deps.json
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\bin\Debug\net8.0-windows\CalculatorTask.runtimeconfig.json
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\bin\Debug\net8.0-windows\CalculatorTask.dll
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\bin\Debug\net8.0-windows\CalculatorTask.pdb
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\obj\Debug\net8.0-windows\CalculatorTask.Form1.resources
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\obj\Debug\net8.0-windows\CalculatorTask.csproj.GenerateResource.cache
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\obj\Debug\net8.0-windows\CalculatorTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\obj\Debug\net8.0-windows\CalculatorTask.AssemblyInfoInputs.cache
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\obj\Debug\net8.0-windows\CalculatorTask.AssemblyInfo.cs
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\obj\Debug\net8.0-windows\CalculatorTask.csproj.CoreCompileInputs.cache
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\obj\Debug\net8.0-windows\CalculatorTask.dll
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\obj\Debug\net8.0-windows\refint\CalculatorTask.dll
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\obj\Debug\net8.0-windows\CalculatorTask.pdb
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\obj\Debug\net8.0-windows\CalculatorTask.genruntimeconfig.cache
+C:\Users\VaDe17\Documents\Практика\2 - Вторая\CalculatorTask\CalculatorTask\obj\Debug\net8.0-windows\ref\CalculatorTask.dll

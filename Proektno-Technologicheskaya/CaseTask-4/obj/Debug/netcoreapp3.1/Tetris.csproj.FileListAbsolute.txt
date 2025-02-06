@@ -1,0 +1,4 @@
+c:\Users\VaDe17\Desktop\Tetris-main\obj\Debug\netcoreapp3.1\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\VaDe17\Desktop\Tetris-main\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfoInputs.cache
+c:\Users\VaDe17\Desktop\Tetris-main\obj\Debug\netcoreapp3.1\Tetris.AssemblyInfo.cs
+c:\Users\VaDe17\Desktop\Tetris-main\obj\Debug\netcoreapp3.1\Tetris.csproj.CoreCompileInputs.cache
