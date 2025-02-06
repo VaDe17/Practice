@@ -1,0 +1,14 @@
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\bin\Debug\net9.0\CaseTask.exe
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\bin\Debug\net9.0\CaseTask.deps.json
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\bin\Debug\net9.0\CaseTask.runtimeconfig.json
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\bin\Debug\net9.0\CaseTask.dll
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\bin\Debug\net9.0\CaseTask.pdb
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\obj\Debug\net9.0\CaseTask.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\obj\Debug\net9.0\CaseTask.AssemblyInfoInputs.cache
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\obj\Debug\net9.0\CaseTask.AssemblyInfo.cs
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\obj\Debug\net9.0\CaseTask.csproj.CoreCompileInputs.cache
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\obj\Debug\net9.0\CaseTask.dll
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\obj\Debug\net9.0\refint\CaseTask.dll
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\obj\Debug\net9.0\CaseTask.pdb
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\obj\Debug\net9.0\CaseTask.genruntimeconfig.cache
+c:\Users\VaDe17\Documents\Prototypes\CaseTasks\T5\CaseTask\obj\Debug\net9.0\ref\CaseTask.dll
